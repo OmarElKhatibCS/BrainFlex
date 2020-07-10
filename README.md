@@ -5,3 +5,5 @@ you need to put Data On localhost or simply you can put them into an cordova Pro
 
 Game use Phaser Js Framework
 
+# Deployment
+https://brainflex-master.khatibo228.now.sh/
